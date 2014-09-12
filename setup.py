@@ -7,7 +7,7 @@ setup(
     author_email='yassumath@gmail.com',
     url='https://github.com/yassu/sphinxcontrib-visio',
     description='Python reStructuredText directive for embedding visio image',
-    license='MIT',
+    license='apachae2',
     packages=['sphinxcontrib'],
     install_requires=[
         'visio2img'
@@ -18,7 +18,7 @@ setup(
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'Natural Language :: English',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Apache License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
     ]
