@@ -1,3 +1,7 @@
+I finished to maintenance about this program.
+Now, this program is continued to maintenance
+[here](https://github.com/visio2img/sphinxcontrib-visio).
+
 ## Introduction
 
 This program provides directive for RST, which embedding visio file(only vsd format).
